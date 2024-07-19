@@ -6,8 +6,8 @@ O que foi utilizado neste desafio?
 - Variáveis: Criei três let para guardar dados: nomeHeroi, nivelXP, patente;
  ** Apesar de no desafio não estar proposto a criação de mais uma variável (patente), eu achei mais interessante cria-la para incluir em partes do código.
 - Operadores: 
-  - + (mais) :  usado para concatenação;
-  - >=  (maior ou igual a): usado para comparação;  
+  - ++(mais) :  usado para concatenação;
+  - >>=  (maior ou igual a): usado para comparação;  
   - && (and): usado para comparação;
   - <= (menor ou igual a): usado para comparação;
   - true (verdadeiro): usado para laços de repetição (loop).
